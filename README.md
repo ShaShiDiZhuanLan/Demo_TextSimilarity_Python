@@ -1,0 +1,2 @@
+# Demo_TextSimilarity_Python
+文本相似度算法（利用CountVectorizer计算文本相似度）
